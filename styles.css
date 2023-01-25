@@ -1,0 +1,27 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  font-size: 1rem;
+
+  background-color: rgb(35, 90, 35);
+  font-weight: bold;
+}
+#message-el {
+  font-style: italic;
+}
+h1 {
+  color: goldenrod;
+}
+p {
+  color: white;
+}
+button {
+  color: #016f32;
+  padding: 0.6rem 4rem;
+  font-weight: bold;
+  background-color: goldenrod;
+  border: none;
+  cursor: pointer;
+  border-radius: 0.15rem;
+  margin: 0.25rem;
+}
